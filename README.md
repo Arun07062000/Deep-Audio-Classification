@@ -1,1 +1,1 @@
-# Deep-Audio-Classification
+# Revolutionizing conservation efforts! Developed deep audio classification to identify capuchin bird calls in rainforest recordings. Leveraged TensorFlow for spectral analysis, achieving binary call presence output. Contributed to monitoring bird density, empowering environmental conservation.
